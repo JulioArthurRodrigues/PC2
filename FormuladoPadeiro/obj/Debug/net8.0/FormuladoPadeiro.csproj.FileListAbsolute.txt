@@ -1,0 +1,14 @@
+C:\Users\user\PC2\FormuladoPadeiro\bin\Debug\net8.0\FormuladoPadeiro.exe
+C:\Users\user\PC2\FormuladoPadeiro\bin\Debug\net8.0\FormuladoPadeiro.deps.json
+C:\Users\user\PC2\FormuladoPadeiro\bin\Debug\net8.0\FormuladoPadeiro.runtimeconfig.json
+C:\Users\user\PC2\FormuladoPadeiro\bin\Debug\net8.0\FormuladoPadeiro.dll
+C:\Users\user\PC2\FormuladoPadeiro\bin\Debug\net8.0\FormuladoPadeiro.pdb
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.AssemblyInfoInputs.cache
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.AssemblyInfo.cs
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.csproj.CoreCompileInputs.cache
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.dll
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\refint\FormuladoPadeiro.dll
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.pdb
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\FormuladoPadeiro.genruntimeconfig.cache
+C:\Users\user\PC2\FormuladoPadeiro\obj\Debug\net8.0\ref\FormuladoPadeiro.dll
